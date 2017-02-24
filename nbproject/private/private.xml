@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/controller/PersistenceController.java</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/controller/ShoppingController.java</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/web/todo.jsp</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/model/Users.java</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/servlet/TodoServlet.java</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/controller/TodoController.java</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/web/scripts/todo.js</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/web/scripts/weather.js</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/web/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/model/Todo.java</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/controller/VrijemeController.java</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/model/Vrijeme.java</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/web/scripts/main.js</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/servlet/ShoppingServlet.java</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/servlet/VrijemeServlet.java</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/web/weather.jsp</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/web/index.jsp</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/servlet/UserServlet.java</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/web/scripts/settings.js</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/web/scripts/shopping.js</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/web/settings.jsp</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/web/scripts/common.js</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/model/Shopping.java</file>
+            <file>file:/C:/Users/mobil/NetBeans/ServletWebApp/src/java/com/dino/controller/UserController.java</file>
+        </group>
+    </open-files>
+</project-private>

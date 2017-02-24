@@ -1,0 +1,14 @@
+
+<persistence-unit name="ServletWebAppPU" transaction-type="RESOURCE_LOCAL">
+		<class>com.dino.controller.Shopping</class>
+		<class>com.dino.controller.Todo</class>
+		<class>com.dino.controller.Vrijeme</class>
+		<class>com.dino.controller.User</class>
+		          <class>com.dino.controller.PersistenceController</class>
+		<properties>
+			<property name="javax.persistence.jdbc.url" value="jdbc:derby://localhost:1527/userdb;create=true"/>
+			<property name="javax.persistence.jdbc.user" value="root"/>
+			<property name="javax.persistence.jdbc.password" value=""/>
+			<property name="javax.persistence.jdbc.driver" value="org.apache.derby.jdbc.EmbeddedDriver"/>
+		</properties>
+	</persistence-unit>
